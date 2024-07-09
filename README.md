@@ -5,4 +5,4 @@ The main aim of the lab is to learn how to work with main git commands and imple
 3. View and deleting notes
 
 # Screenshots
-![Screenshots of the program](/Screenshots/Screenshot from 2024-07-09 22-43-54.png)
+![Screenshots of the program](https://github.com/timGalk/Lab9/assets/152897676/0382d528-0842-47a2-83e9-fb026d101ab6)
